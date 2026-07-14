@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm astral</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=AstralZX&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=developer%20%7C%20hacker%20%7C%20builder&descSize=18&descAlignY=50&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=AstralZX&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=developer%20%7C%20linux%20enthusiast&descSize=18&descAlignY=50&animation=twinkling" width="100%">
 </p>
 
 <p align="center">
