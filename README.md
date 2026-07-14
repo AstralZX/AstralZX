@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralZX&layout=compact&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=1e293b&langs_count=6" height="140">
 </p>
 
-### random
+### QOUTES
 
 ```
   "the best tools are the ones you build yourself."
