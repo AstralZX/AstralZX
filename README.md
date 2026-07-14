@@ -19,7 +19,7 @@
   │  lang    :: rust, python, c             │
   │  editor  :: nvim                        │
   │  terminal :: kitty                      │
-  │  os      :: arch btw                    │
+  │  os      :: cachyOS                     │
   └─────────────────────────────────────────┘
 ```
 
