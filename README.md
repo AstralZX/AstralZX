@@ -14,12 +14,12 @@
 
 ```
   ┌─────────────────────────────────────────┐
-  │  name    :: astral                       │
+  │  name    :: astral                      │
   │  focus   :: systems, security, tools    │
   │  lang    :: rust, python, c             │
-  │  editor  :: nvim                         │
-  │  terminal :: kitty                       │
-  │  os      :: arch btw                     │
+  │  editor  :: nvim                        │
+  │  terminal :: kitty                      │
+  │  os      :: arch btw                    │
   └─────────────────────────────────────────┘
 ```
 
