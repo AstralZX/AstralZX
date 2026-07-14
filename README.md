@@ -18,7 +18,7 @@
   │  focus   :: systems, security, tools    │
   │  lang    :: rust, python, c             │
   │  editor  :: nvim                        │
-  │  terminal :: kitty                      │
+  │  term    :: kitty                       │
   │  os      :: cachyOS                     │
   └─────────────────────────────────────────┘
 ```
