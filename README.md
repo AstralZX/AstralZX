@@ -33,7 +33,7 @@
 ### my tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,git,linux,neovim,kitty,arch&perline=8&theme=dark" width="400">
+  <img src="https://skillicons.dev/icons?i=rust,python,c,git,linux,neovim,kitty,cachyos&perline=8&theme=dark" width="400">
 </p>
 
 ### github stats
