@@ -33,7 +33,8 @@
 ### my tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,git,linux,neovim,kitty,cachyos&perline=8&theme=dark" width="400">
+  <img src="https://skillicons.dev/icons?i=rust,python,c,git,linux,neovim,kitty&perline=8&theme=dark" width="400">
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cachyos-auto.svg" height="48">
 </p>
 
 ### github stats
