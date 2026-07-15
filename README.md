@@ -53,6 +53,14 @@
 ```
   "the best tools are the ones you build yourself."
 ```
+### CONTACT
+  ```
+  ┌─────────────────────────────────────────┐
+  │  discord :: ns6d                        │
+  │  gmail   :: none                        │
+  │  tiktok  :: astrl.fxx                   │
+  └─────────────────────────────────────────┘
+```
 
 ---
 
