@@ -17,9 +17,9 @@
   │  name    :: astral                      │
   │  focus   :: systems, security, tools    │
   │  lang    :: rust, python, c             │
-  │  editor  :: nvim                        │
+  │  editor  :: vscode                      │
   │  term    :: kitty                       │
-  │  os      :: cachyOS                     │
+  │  os      :: Antenora linux              │
   └─────────────────────────────────────────┘
 ```
 
@@ -32,10 +32,6 @@
 
 ### my tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,git,linux,neovim,kitty&perline=8&theme=dark" width="400">
-  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cachyos-auto.svg" height="48">
-</p>
 
 ### github stats
 
