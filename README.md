@@ -1,4 +1,4 @@
-<img src="./banner.svg" width="100%" alt="AstralZX banner" />
+<img src="./banner.png" width="100%" alt="AstralZX banner" />
 
 <br />
 
@@ -68,12 +68,11 @@ Thanks for stopping by — hope you like the stuff.
 <div align="center">
 
 ```
-   _   __ ______   ____  __  ______
-  / | / //_  __/  / __ \/ / / /  _/
- /  |/ /  / /    / /_/ / /_/ // /  
-/ /|  /  / /    / ____/ __  // /   
-/_/ |_/  /_/    /_/   /_/ /_/___/  
-                                   
+     #   ##### ##### ####    #   #   ##### #   #
+    # #  #       #   #   #  # #  #      #   # #  
+   ##### ####    #   ####  ##### #      #     #  
+   #   #     #   #   # #   #   # #      #     # #
+   #   # #####   #   #  #  #   # ##### ##### #   #
 ```
 
 </div>
