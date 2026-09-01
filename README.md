@@ -1,10 +1,79 @@
-<h1 align="center">hey, i'm astral</h1>
-im a small developer who enjoys some developing from time to time currently im working on Antenora Linux, a independant distro using S6
+<img src="./banner.svg" width="100%" alt="AstralZX banner" />
 
-I have an addiction to nicotine and cannabis related products
+<br />
 
-if my code isnt updated or etc its cause i am out and struggling with withdrawl
+<div align="center">
 
-contact me at my work mail wowastral7@gmail.com
-or my tiktok voidlinuxlover
-hope you like my stuff!
+# hey, i'm astral
+
+**Linux systems · Wayland compositors · source-built tooling**
+
+`C++` • `Rust` • `Shell` • `Go`
+
+Crafting operating systems and low-level software, one package at a time.
+
+<br />
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wayland](https://img.shields.io/badge/Wayland-ffffff?style=flat-square&logo=wayland&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AstralZX&color=7f5af0&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+### 🛠 What I'm working on
+
+- **Keru OS** — an independent, source-only Linux distribution. A shell-driven
+  package manager (**Kama**), a craft-your-own-system TUI installer, and
+  full swappability (init, libc, filesystem) chosen at install time.
+- **LeWM** — a wlroots-based Wayland compositor in C++ with a custom `le`
+  config language.
+- **wlrootspp** — a C++20 RAII wrapper around wlroots 0.20 with the scenefx
+  effect engine.
+
+### 🧰 Experience
+
+- **Systems / low-level:** Linux, Wayland, kernel-adjacent work, source builds
+- **Languages:** C++, Rust, Go, Shell
+- **Interests:** compositors, package management, minimal operating systems
+
+---
+
+### ⚠️ A note on activity
+
+I'm open about this because hiding it would be dishonest: I live with
+addiction to **nicotine** and **cannabis**. When I'm out and struggling with
+withdrawal, my contributions slow down. That's the honest reason, and it
+doesn't change the work — it just means sometimes it comes in waves.
+
+If my repos are quiet for a stretch, that's why. I pick right back up where I
+left off.
+
+---
+
+### 📬 Contact
+
+- **Email** — [wowastral7@gmail.com](mailto:wowastral7@gmail.com)
+- **TikTok** — [@voidlinuxlover](https://www.tiktok.com/@voidlinuxlover)
+
+Thanks for stopping by — hope you like the stuff.
+
+---
+
+<div align="center">
+
+```
+   _   __ ______   ____  __  ______
+  / | / //_  __/  / __ \/ / / /  _/
+ /  |/ /  / /    / /_/ / /_/ // /  
+/ /|  /  / /    / ____/ __  // /   
+/_/ |_/  /_/    /_/   /_/ /_/___/  
+                                   
+```
+
+</div>
